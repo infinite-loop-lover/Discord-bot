@@ -1,0 +1,25 @@
+{
+  "name": "dlib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.3",
+    "better-sqlite3": "^8.0.1",
+    "dotenv": "^16.0.3",
+    "form-data": "^4.0.0",
+    "node-fetch": "^3.3.0",
+    "nodemon": "^2.0.20",
+    "quick.db": "^9.0.8",
+    "sp-easyembed": "^1.2.5",
+    "swyftdiscord": "^1.0.6",
+    "ws": "^8.12.0"
+  }
+}
